@@ -1,0 +1,15 @@
+{
+  "name": "cypress-essentials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pqdluiz/cypress-essentials.git",
+  "author": "Luiz Lima",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  },
+  "scripts": {
+    "cy": "cypress open",
+    "test": "cypress run"
+  }
+}
